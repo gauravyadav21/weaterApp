@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/navigation_home"
+        android:icon="@drawable/ic_home_black_24dp"
+        android:enabled="true"
+        android:title="@string/home"/>
+
+    <item
+        android:id="@+id/navigation_date"
+        android:icon="@drawable/ic_baseline_date_range_24"
+        android:title="@string/date"/>
+
+    <item
+        android:id="@+id/navigation_report"
+        android:icon="@drawable/ic_baseline_insert_drive_file_24"
+        android:title="@string/report"/>
+
+    <item
+        android:id="@+id/navigation_setting"
+        android:icon="@drawable/ic_baseline_settings_24"
+        android:title="@string/setting" />
+
+</menu>

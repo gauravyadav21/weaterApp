@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">App</string>
+    <string name="home">Home</string>
+    <string name="date">Date</string>
+    <string name="report">Report</string>
+    <string name="setting">Setting</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="quote">Sunshine is delicious, rain is refreshing, wind braces us up, snow is exhilarating; there is really no such thing as bad weather, only different kinds of good weather.</string>
+    <string name="image_file">image file</string>
+    <string name="submit">Submit</string>
+    <string name="location">Location:</string>
+    <string name="entername">Enter your name</string>
+    <string name="name">Name:</string>
+    <string name="enter_location">Enter your city</string>
+    <string name="delhi">Delhi</string>
+    <string name="mumbai">Mumbai</string>
+    <string name="noida">Noida</string>
+    <string name="City">City</string>
+</resources>

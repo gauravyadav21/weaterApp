@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/select_delhi"
+        android:title="@string/delhi"/>
+
+    <item
+        android:id="@+id/select_mumbai"
+        android:title="@string/mumbai"/>
+
+    <item
+        android:id="@+id/select_noida"
+        android:icon="@drawable/ic_baseline_insert_drive_file_24"
+        android:title="@string/noida"/>
+
+</menu>
